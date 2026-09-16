@@ -17,3 +17,4 @@ class selectionsort:
 
 selectionsort(list)
 print(list)
+#rama is my bitch
